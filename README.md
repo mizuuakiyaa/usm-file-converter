@@ -3,6 +3,8 @@ Converter that converts usm files into a mp4 format files
 
 # How to use
 
+copy the repository
+
 Install python 
 
 in terminal:
